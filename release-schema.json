@@ -1,0 +1,17 @@
+{
+  "definitions": {
+    "Organization": {
+      "properties": {
+        "details": {
+          "properties": {
+            "IsSmallCompany": {
+              "title": "Is Small Company",
+              "description": "Indica si la organización corresponde a una MiPyme (Micro, pequeña o mediana empresa)",
+              "type": "boolean"
+            }
+          }
+        }
+      }
+    }
+  }
+}

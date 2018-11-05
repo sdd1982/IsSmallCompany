@@ -1,0 +1,1 @@
+Indica si la organización corresponde a una MiPyme (Micro, pequeña o mediana empresa)
